@@ -1,3 +1,164 @@
+# 📘 CIVISCORE Whitepaper v0.1
+
+**A Distributed Cognitive Scoring System for the Post-Truth Era**
+**Author: MaxMacivi (or your preferred name)**
+**Date: May 19, 2025**
+
+---
+
+## 🌐 What Is CIVISCORE?
+
+**CIVISCORE** is a distributed cognitive scoring system designed to help societies navigate controversial, complex, or misleading information in a fragmented media landscape. It combines AI-assisted pre-evaluation, human scoring consensus, transparent evolution tracking, and game-based incentivization to form a collaborative model for trust reconstruction.
+
+> In a world where truth is disputed and centralized authority is distrusted,
+> **CIVISCORE offers a decentralized mechanism to record, negotiate, and visualize collective perception over time.**
+
+---
+
+## 🎯 Why We Built This
+
+We live in a time of **information chaos**:
+
+* Truth is relative, but **lies are viral**.
+* Platforms suppress or amplify content based on opaque rules.
+* Governments weaponize information; corporations monetize confusion.
+
+We believe the solution is not to centralize power further, but to **build tools that facilitate negotiation, transparency, and context-aware understanding** — open to all, controlled by none.
+
+CIVISCORE aims to be:
+
+* A **knowledge co-regulation engine**,
+* A **civilization memory layer**, and
+* A **trust formation infrastructure** — all rolled into one.
+
+---
+
+## 🔧 System Architecture Overview
+
+CIVISCORE consists of **three interconnected chains**, each fulfilling a key systemic function:
+
+---
+
+### 1. 🧠 Scoring Chain (AI + GPU + Human Voting)
+
+* AI models (LLMs + Vision + Risk Classifiers) pre-analyze topics for semantic tone, credibility gaps, and risk flags.
+* Users vote on key dimensions (factuality, context bias, clarity, manipulation signals).
+* Scores are consensus-verified and immutably stored.
+* Version histories enable timeline-based truth navigation.
+* Output: visualized "information evolution video" per topic.
+
+---
+
+### 2. 💾 Storage Chain (NVMe + Distributed Persistence)
+
+* High-speed local or cloud NVMe used for timestamped data writes.
+* Stores:
+
+  * All scoring results
+  * Version history
+  * AI outputs
+  * User contribution trails
+* Enables peer review, audits, and recursive deliberation.
+
+---
+
+### 3. 🎮 Civilization Game Layer (WAX Blockchain + P2E Incentives)
+
+* Users participate in simulated governance, like *Sid Meier’s Civilization*:
+
+  * City-builders: curate and organize thematic domains
+  * Ambassadors: score cross-domain debates
+  * Historians: annotate memory threads
+  * Judges: arbitrate scoring disagreements
+* All actions rewarded through Play-to-Earn mechanisms (NFTs, badges, tokens).
+
+> **“Information trust is not a static truth — it's an ongoing civic simulation.”**
+
+---
+
+## 🧭 Core Principles
+
+* 🌍 **Decentralized**: no platform or government controls the scoring outcomes.
+* 🤖 **AI-Assisted**: humans remain the source of legitimacy; AI accelerates coordination.
+* 🔁 **Evolving**: no permanent label; only transparent shifts in judgment.
+* 🧬 **Memory-Rich**: we record how societies *changed their minds*, not just what they once believed.
+
+---
+
+## 💰 Incentive Model
+
+CIVISCORE uses a contribution-based economic system:
+
+| Action                           | Reward                |
+| -------------------------------- | --------------------- |
+| Scoring a controversial item     | CIVI Points           |
+| Submitting multi-source evidence | Score multipliers     |
+| Participating in arbitration     | Governance credits    |
+| Visualizing score evolution      | NFT badges or unlocks |
+
+Points may be redeemed for:
+
+* DAO voting rights
+* Token drops (when issued)
+* Unlockable missions
+* Curatorial status
+
+---
+
+## 🔐 Licensing & Purpose Clause
+
+CIVISCORE is open-source under a modified MIT license.
+We explicitly prohibit the following uses:
+
+| ❌ Forbidden For           | ✅ Allowed For                      |
+| ------------------------- | ---------------------------------- |
+| AI censorship systems     | Civic education                    |
+| Platform truth ranking    | Journalism & research              |
+| Closed recommender models | Transparent governance experiments |
+| Government propaganda     | Community DAO scoring models       |
+
+**This system is for co-governance, not coercion.**
+
+---
+
+## 🔄 Future Roadmap (Preview)
+
+* ✅ Whitepaper v0.1 release (this document)
+* 🔜 GitHub prototype score engine
+* 🔜 Notion project hub & Discord community
+* 🔜 Initial simulation using 5 global controversies
+* 🔜 Public alpha: browser plugin + rating UI
+
+---
+
+## 🤝 Join the Founding Network
+
+We are currently in the concept anchoring phase.
+We welcome developers, designers, educators, and dreamers.
+You can help shape how the next generation negotiates reality.
+
+📎 GitHub: [https://github.com/MaxMacivi/civiscore](https://github.com/MaxMacivi/civiscore)
+📎 Website: (Notion page or future domain)
+📎 Contact: (civiscoreorg@gmail.com)
+
+---
+
+## 🧠 Closing Thought
+
+> “In the future, **truth** may not be a consensus.
+> But the **way we disagree** will define whether civilization survives.”
+
+---
+
+### License: MIT with Purpose Clause
+
+
+
+
+
+
+
+
 # 📘 CIVISCORE 概念锁定白皮书草案（v0.1）
 
 ---
