@@ -52,7 +52,7 @@ CIVISCORE 是一个用于后真相时代的信息协商系统，它通过 AI 预
 
 <a name="architecture"></a>
 ## 系统架构
-![系统架构图](./docs/civiscore_arch.png)
+![系统架构图](./civiscore_arch.png)
 
 ---
 
