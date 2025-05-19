@@ -1,7 +1,7 @@
 # 📘 CIVISCORE Whitepaper v0.1
 
 **A Distributed Cognitive Scoring System for the Post-Truth Era**
-**Author: MaxMacivi (or your preferred name)**
+**Author: Max**
 **Date: May 19, 2025**
 
 ---
