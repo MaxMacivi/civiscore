@@ -1,3 +1,29 @@
+# Contributing to CIVISCORE
+
+Welcome! 🎉
+
+CIVISCORE is a public experiment in building a decentralized, evolving truth-scoring system for controversial or ambiguous information.
+
+We welcome contributions in the following areas:
+
+- 🧠 AI model tuning, semantic topic segmentation, pre-analysis
+- 💾 Storage optimization using NVMe or distributed nodes
+- 🎮 Game logic and incentive design (WAX, NFTs, P2E structures)
+- 🎥 Evolutionary video rendering of consensus changes
+- 🌍 Community facilitation and ethics shaping
+
+To get started:
+
+1. Read the [Whitepaper](./whitepaper_v0.1.md)
+2. Open an [Issue](https://github.com/MaxMacivi/civiscore/issues) or [Pull Request](https://github.com/MaxMacivi/civiscore/pulls)
+3. Introduce yourself (when Discord is ready)
+
+Let's co-create a new model of knowledge legitimacy.
+
+
+
+
+
 # 参与 CIVISCORE 的方式
 
 我们欢迎：
