@@ -32,6 +32,8 @@ We welcome developers, thinkers, designers, civic technologists, educators, and 
 [GitHub Issues](https://github.com/MaxMacivi/civiscore/issues) | [Discord Coming Soon] | [Notion Docs - WIP]
 
 
+---
+
 
 # CIVISCORE
 
