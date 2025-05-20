@@ -1,62 +1,110 @@
-# CIVISCORE
+# CIVISCORE · 文明探索实验原型
 
-**CIVISCORE** is a distributed cognitive scoring system designed for the post-truth era. It combines AI pre-evaluation, human consensus scoring, evolution-tracking visualizations, and gamified incentives to create a resilient trust infrastructure for navigating controversial information.
+**文明是否可以被结构化理解？**  
+CIVISCORE 是一个交互式文明探索系统，旨在通过对重大人物、事件、作品的多维评分行为，构建一套反映人类价值偏好的结构性认知体系。
 
-We are not building a truth oracle.  
-We are building a system that makes **the process of collective truth-seeking visible, traceable, and participatory**.
-
-## 🌐 Core Architecture
-
-- 🧠 **Scoring Chain**: AI-assisted semantic analysis + human scoring consensus
-- 📦 **Storage Chain**: NVMe-based distributed archive with evolutionary versioning
-- 🎮 **Civilization Game Layer**: WAX blockchain-based incentivization system using play-to-earn principles
-
-> CIVISCORE = Truth is not asserted, it is evolved.
+系统采用游戏化入口，结合行为评分、数据存证与演化反馈，为未来认知系统与协作模型提供可追踪的人类文明行为轨迹。
 
 ---
 
-### 📄 Key Documents
+## 🎮 可交互体验入口
 
-- [Whitepaper (v0.1)](./whitepaper_v0.1.md)
-- [Original Concept Declaration](./core_idea.md)
-- [Contributing Guidelines](./CONTRIBUTING.md)
+用户通过模拟场景或内容评分形式参与：
 
----
-
-### 👥 Join Us
-
-CIVISCORE is a public, open experiment in restoring information legitimacy and collaborative judgment.
-
-We welcome developers, thinkers, designers, civic technologists, educators, and activists.
-
-[GitHub Issues](https://github.com/MaxMacivi/civiscore/issues) | [Discord Coming Soon] | [Notion Docs - WIP]
-
+- 👤 历史角色体验：例如以**某位科学家/政治人物/思想家**身份，在特定时代抉择下作出选择
+- ⚔️ 战略情境模拟：对历史事件（如战争、联盟、分裂）作出策略性评分
+- 🎬 文化作品评议：对电影、书籍、文章等文化内容进行多维价值打分
+- 📚 知识条目探索：对结构化条目（如百科类）进行阶段性影响评价与偏好输入
 
 ---
 
+## 🧠 系统架构（三链设计）
 
-# CIVISCORE
+### 1. 🧠 Scoring Chain | 评分链
+- 多维行为评分系统（如：后果、伦理、技术性、集体影响力）
+- 用户行为结构化映射，支持后续演化建模与统计分析
 
-CIVISCORE 是一个用于后真相时代的信息协商系统，它通过 AI 预判、人类评分、版本演变记录以及游戏化激励机制，构建出一个去中心化、可复盘、可协商的认知评分网络。
+### 2. 💾 Storage Chain | 存储链
+- 所有评分与行为记录结构化写入分布式存储（如 IPFS）
+- 支持版本追踪、偏好回溯与因果图谱生成
 
-本项目正在进行概念验证阶段（PoC v0.1），将逐步开源评分逻辑、AI模型协同机制以及分布式历史可视化系统。
-
-> 不是去判断真理，而是去记录人类如何协商“真相”。
-
-## 项目结构（核心三链）：
-- 🎯 评分链（GPU+AI预判）
-- 📦 存储链（NVMe存证 + 溯源结构）
-- 🎮 文明游戏链（WAX游戏化治理）
-
----
-
-<a name="architecture"></a>
-## 系统架构
-![系统架构图](./civiscore_arch.png)
+### 3. 🏛️ Civilization Chain | 文明链
+- 用户行为演化为角色分型（如“探究者”“守成者”“激进者”）
+- 多人共识行为可生成偏好图谱与决策分歧映射
 
 ---
 
-欢迎加入我们，共建一个“理性与分歧可并存”的未来信息基础设施。
+## 🪙 激励机制 · 模型 C（三阶段结构）
 
-📎 白皮书：[whitepaper_v0.1.md](./whitepaper_v0.1.md)
-📎 原始构想：[core_idea.md](./core_idea.md)
+### 📘 第一阶段：链下积分（CIVI-Scores）
+- 用户行为将生成非交易积分，用于激励、行为轨迹分析与未来兑换权重
+
+### 🔗 第二阶段：链上主币 CIVI Coin
+- 系统上线后将依据历史积分映射空投主币 CIVI
+- 用于治理、话题激励、功能解锁等应用场景
+
+### 🌐 第三阶段：Layer-2 子币联邦机制
+- 各子系统（评分 / 存储 / 行为）将支持子币 SCV / STV / CVG
+- 子币服务各自高频逻辑，CIVI 为锚定主币
+
+---
+
+## 🔍 系统核心特征
+
+- 📊 结构化评分：不简单聚合平均值，而是生成偏好图谱、行为模型与路径分歧
+- ⏳ 多人协同：用户评分可在话题中形成认知共识或冲突演化视图
+- 🧠 AI友好：数据结构适用于后续认知建模与演化预测应用
+- 📎 可扩展性：支持子链结构、代币拓展与角色演化路径生成
+
+---
+
+## 🛠️ 当前进展
+
+- ✅ 架构设计与三链模型初步完成
+- ✅ civiscore_arch 架构图发布
+- 🟡 游戏交互场景设计中（评分行为与路径触发）
+- 🟡 存储结构测试中（IPFS写入/读取/验证）
+- 🔜 模拟反馈模块 + 认知偏好可视图设计中
+
+---
+
+## 🤝 加入我们
+
+欢迎以下领域的构建者：
+
+- 🎨 UI / 游戏互动体验设计师
+- ✍️ 历史场景 / 文本内容脚本构建者
+- 🤖 LLM 调用与行为意图映射模型研究者
+- 💾 Web3 / IPFS / 区块链开发者
+- 📈 数据建模 / 可视化工程师
+
+📬 请在 Issues 区留言，或加入我们即将开放的协作空间。
+
+---
+
+## 📚 文档结构（持续更新中）
+
+- `docs/scoring_chain.md` – 评分链逻辑与结构模型  
+- `docs/storage_chain.md` – 存储结构与版本追踪逻辑  
+- `docs/civilization_chain.md` – 行为分型与演化图谱机制  
+- `docs/token_model.md` – 激励机制与模型C设计  
+- `docs/game_shell.md` – 游戏式入口设计文档  
+- `docs/roadmap.md` – 项目五阶段演进路径
+
+---
+
+## 🌐 项目主页
+
+🔗 [www.civiscore.org](http://www.civiscore.org)  
+📦 GitHub: [github.com/MaxMacivi/civiscore](https://github.com/MaxMacivi/civiscore)
+
+---
+
+## 🧭 关于我们
+
+CIVISCORE 是一个结构化文明探索实验，致力于记录人类集体如何理解行为后果、共识偏好与文明演化路径。它不评判历史，只描述人类曾如何评价历史。
+
+这不是游戏，但它也不全是现实。它是人类为未来交出的一份认知投影。
+
+---
+
