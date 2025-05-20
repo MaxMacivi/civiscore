@@ -90,7 +90,7 @@ CIVISCORE 是一个交互式文明探索系统，旨在通过对重大人物、�
 - `docs/token_model.md` – 激励机制与模型C设计  
 - `docs/game_shell.md` – 游戏式入口设计文档  
 - `docs/roadmap.md` – 项目五阶段演进路径
-🚀 想贡献资源支持文明系统运行？查看 miner_onboarding.md
+- 🚀 想贡献资源支持文明系统运行？查看 miner_onboarding.md
 ---
 
 ## 🌐 项目主页
