@@ -1,3 +1,58 @@
+# CIVISCORE
+
+CIVISCORE is a decentralized simulation and assessment framework that models human value judgments across history, decision-making, and culture. It offers a structured protocol for encoding human behavior into a long-term memory network, enabling future AI systems to understand, train on, and align with structured human preferences.
+
+> “This is not just a game, it’s a civilization’s reflection written in behavior.”
+
+🌐 Website: https://www.civiscore.org  
+📂 Docs: See /docs/ for detailed protocol and system specs  
+🧠 Want to contribute? Start with `/docs/miner_onboarding.md` or explore the worldview via `/docs/civiscore_game_structure.md`
+
+---
+
+## 🧠 Project Philosophy
+
+CIVISCORE frames every action as a moral, historical, and civilizational vote. When you make a judgment, you're not simply interacting—you’re leaving a projection of how this generation perceives humanity.
+
+---
+
+## 🧩 Architecture Summary
+
+- **Scoring Chain (GPU)** → Handles AI-supported judgment scoring  
+- **Storage Chain (NVMe)** → Preserves structured memory of all actions  
+- **Civilization Chain (CPU)** → Simulates user-driven history and preference divergence
+
+---
+
+## 🪙 Token Model (Model C)
+
+- Phase 1: Off-chain point system (SP / MQ / WP)
+- Phase 2: Migration to on-chain unified token: `CIVI`
+- Phase 3: Unlock child tokens (SCV / STV / CVG) through on-chain participation
+
+---
+
+## 📜 Document Structure
+
+- `/docs/civiscore_game_structure.md` → Game Worldview, Player Experience & Behavior Encoding
+- `/docs/miner_onboarding.md` → How to contribute storage, GPU, and CPU resources
+- `/docs/scoring_chain.md` → Scoring system design
+- `/docs/storage_chain.md` → Decentralized memory architecture
+- `/docs/civilization_chain.md` → Preference and trajectory simulation logic
+- `/docs/token_model.md` → Token incentives & resource mapping
+- `/docs/skynet_os_structure.md` → Internal architecture & philosophical blueprint
+
+---
+
+## 🎯 Join the Project
+
+- Writers, designers, developers, AI researchers, worldbuilders welcome.
+- Contribute to simulations, design playable history, or run a node.
+- Contact: `civiscoreorg@gmail.com` | Discord coming soon.
+
+---
+
+
 # CIVISCORE · 文明探索实验原型
 
 **文明是否可以被结构化理解？**  
